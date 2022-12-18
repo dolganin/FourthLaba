@@ -1,0 +1,12 @@
+﻿  tuple___.cpp
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(198,58): warning C4305: аргумент: усечение из "int" в "char"
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(198,54): warning C4309: аргумент: усечение константного значения
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(179,26): warning C4101: e: неиспользованная локальная переменная
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(174): message : во время компиляции функции-члена класс шаблон "InputParser<int,int,std::string>::CSVIterator &InputParser<int,int,std::string>::CSVIterator::operator ++(void)"
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(201): message : выполняется компиляция ссылки на экземпляр шаблон функции "InputParser<int,int,std::string>::CSVIterator &InputParser<int,int,std::string>::CSVIterator::operator ++(void)"
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(202): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "InputParser<int,int,std::string>::CSVIterator"
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(121,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(107): message : во время компиляции функции-члена класс шаблон "std::vector<std::string,std::allocator<std::string>> InputParser<int,int,std::string>::getandsep(void)"
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(93): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::string,std::allocator<std::string>> InputParser<int,int,std::string>::getandsep(void)"
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\FourthLaba\tuple___.cpp(198): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "InputParser<int,int,std::string>"
+  FourthLaba.vcxproj -> C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\FourthLaba\Debug\FourthLaba.exe
